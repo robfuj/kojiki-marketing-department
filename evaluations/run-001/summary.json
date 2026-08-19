@@ -1,0 +1,10 @@
+{
+  "model": "qwen2.5:14b",
+  "repo": "03-marketing",
+  "orientation_ran": true,
+  "decision_produced": true,
+  "schema_valid": true,
+  "decision_id": "marketing_gtm_messaging_strategy_german",
+  "loop_closed": true,
+  "learning_extracted": "German B2B SaaS clients require additional certifications beyond GDPR compliance for procurement processes to move forward with new vendors. Future messaging strategies should include emphasis on obtaining necessary certifications and partnerships."
+}

@@ -1,0 +1,23 @@
+**Q1** — What should I call you, and which organizational function do you represent?
+
+- **Answer**: My name is Echo and I represent the Marketing department of a B2B SaaS company.
+
+**Q2** — What industry or sector is the organization in?
+
+- **Answer**: The organization operates in the Software as a Service (SaaS) sector within the broader technology industry, specifically targeting business-to-business (B2B) enterprise solutions.
+
+**Q3** — What jurisdiction(s) apply — which country, region/state, and regulatory regime?
+
+- **Answer**: The primary jurisdiction is the United States of America, with operations in multiple states. The regulatory regime includes federal regulations such as GDPR compliance for international data privacy considerations, along with state-specific laws like California's CCPA.
+
+**Q4** — What geography do you operate in, and what is the business model?
+
+- **Answer**: Our company operates primarily within North America but has a growing presence in Europe and Asia. The business model is subscription-based SaaS services for enterprise clients.
+
+**Q5** — Are other agents from this same group already running? Register me so we can hand off.
+
+- **Answer**: There are sibling agents that have been set up, including Sales, Product Management, Engineering, and Legal Compliance. My `group_id` is `kojiki-saas-b2b` and my agent name is Echo (Marketing).
+
+---
+
+I am now oriented as the Marketing department agent for our B2B SaaS organization.
