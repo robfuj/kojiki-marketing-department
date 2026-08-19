@@ -1,0 +1,40 @@
+```mermaid
+flowchart TD
+    n0["MARKET"]
+    n1["SEGMENT"]
+    n2["AUDIENCE"]
+    n3["PROBLEM"]
+    n4["POSITIONING"]
+    n5["MESSAGE"]
+    n6["CHANNEL"]
+    n7["CAMPAIGN"]
+    n8["RESPONSE"]
+    n9["CONVERSION"]
+    n10["ATTRIBUTION"]
+    n11["LEARNING"]
+    n0 --> n1
+    n1 --> n2
+    n2 --> n3
+    n3 --> n4
+    n4 --> n5
+    n5 --> n6
+    n6 --> n7
+    n7 --> n8
+    n8 --> n9
+    n9 --> n10
+    n10 --> n11
+    n0 -->|learning| n0
+
+stateDiagram-v2
+    [*] --> UNKNOWN AUDIENCE
+    UNKNOWN AUDIENCE --> IDENTIFIED
+    IDENTIFIED --> SEGMENTED
+    SEGMENTED --> RESEARCHED
+    RESEARCHED --> POSITIONED
+    POSITIONED --> ACTIVATED
+    ACTIVATED --> ENGAGED
+    ENGAGED --> CONVERTING
+    CONVERTING --> RETAINING
+    RETAINING --> EXPANDING
+    EXPANDING --> [*]
+```

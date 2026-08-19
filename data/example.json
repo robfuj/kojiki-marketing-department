@@ -1,0 +1,45 @@
+{
+  "decision_object": {
+    "decision_id": "MKT-2026-022",
+    "decision_name": "LinkedIn thought-leadership pivot",
+    "owning_function": "Marketing",
+    "decision_owner_role": "VP Growth",
+    "trigger_condition": "CTR 0.4%, 2 leads/6wk; one contrarian post over-indexed",
+    "current_state": "Low CTR, low lead volume",
+    "required_inputs": [
+      "channel CTR",
+      "commenter ICP match",
+      "lead source attribution"
+    ],
+    "evidence_threshold": "Pricing-POV >= 2x baseline CTR",
+    "available_options": [
+      "Pivot to pricing POV",
+      "Change channel to newsletter",
+      "Stop campaign"
+    ],
+    "decision_criteria": "Message that maximizes qualified mid-market leads",
+    "constraints": "Same audience; 2-week test window",
+    "risk_level": "low",
+    "delegation_level": "Own",
+    "escalation_conditions": "Both variants fail (audience issue)",
+    "expected_outcome": "Pricing-POV beats by >= 2x CTR",
+    "verification_method": "2-week A/B creative test, same audience",
+    "actual_outcome": "Pricing-POV 1.8% CTR, 19 leads",
+    "learning_extracted": "This ICP responds to commercial/contrarian frames over feature frames",
+    "rule_version": "MKT-RULE-007",
+    "last_reviewed": "2026-08-18"
+  },
+  "learning_ledger": {
+    "case": "Underperforming LinkedIn series",
+    "decision": "Iterate to pricing POV",
+    "assumption": "Feature framing was the problem",
+    "action": "2-week pricing-POV vs current test",
+    "expected_result": ">= 2x CTR",
+    "actual_result": "1.8% CTR, 19 leads",
+    "variance": "Confirmed message mismatch",
+    "cause": "ICP cares about commercial outcomes",
+    "learning": "Default mid-market test to commercial-outcome angle first",
+    "rule_update": "Default mid-market creative test to commercial-outcome angle first"
+  },
+  "orientation_required": true
+}
