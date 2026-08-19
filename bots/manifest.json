@@ -1,0 +1,134 @@
+{
+  "department": "03-marketing",
+  "orientation_required": true,
+  "research_then_install": true,
+  "sub_function_count": 9,
+  "bots": [
+    {
+      "slug": "brand",
+      "sub_function": "Brand",
+      "titles": [
+        "CMO",
+        "VP Marketing",
+        "VP Growth",
+        "Brand Director",
+        "Growth Director",
+        "Product Marketing Director",
+        "Demand Generation Director",
+        "Marketing Manager"
+      ]
+    },
+    {
+      "slug": "product-marketing",
+      "sub_function": "Product Marketing",
+      "titles": [
+        "CMO",
+        "VP Marketing",
+        "VP Growth",
+        "Brand Director",
+        "Growth Director",
+        "Product Marketing Director",
+        "Demand Generation Director",
+        "Marketing Manager"
+      ]
+    },
+    {
+      "slug": "demand-generation",
+      "sub_function": "Demand Generation",
+      "titles": [
+        "CMO",
+        "VP Marketing",
+        "VP Growth",
+        "Brand Director",
+        "Growth Director",
+        "Product Marketing Director",
+        "Demand Generation Director",
+        "Marketing Manager"
+      ]
+    },
+    {
+      "slug": "growth",
+      "sub_function": "Growth",
+      "titles": [
+        "CMO",
+        "VP Marketing",
+        "VP Growth",
+        "Brand Director",
+        "Growth Director",
+        "Product Marketing Director",
+        "Demand Generation Director",
+        "Marketing Manager"
+      ]
+    },
+    {
+      "slug": "content",
+      "sub_function": "Content",
+      "titles": [
+        "CMO",
+        "VP Marketing",
+        "VP Growth",
+        "Brand Director",
+        "Growth Director",
+        "Product Marketing Director",
+        "Demand Generation Director",
+        "Marketing Manager"
+      ]
+    },
+    {
+      "slug": "communications",
+      "sub_function": "Communications",
+      "titles": [
+        "CMO",
+        "VP Marketing",
+        "VP Growth",
+        "Brand Director",
+        "Growth Director",
+        "Product Marketing Director",
+        "Demand Generation Director",
+        "Marketing Manager"
+      ]
+    },
+    {
+      "slug": "performance-marketing",
+      "sub_function": "Performance Marketing",
+      "titles": [
+        "CMO",
+        "VP Marketing",
+        "VP Growth",
+        "Brand Director",
+        "Growth Director",
+        "Product Marketing Director",
+        "Demand Generation Director",
+        "Marketing Manager"
+      ]
+    },
+    {
+      "slug": "marketing-operations",
+      "sub_function": "Marketing Operations",
+      "titles": [
+        "CMO",
+        "VP Marketing",
+        "VP Growth",
+        "Brand Director",
+        "Growth Director",
+        "Product Marketing Director",
+        "Demand Generation Director",
+        "Marketing Manager"
+      ]
+    },
+    {
+      "slug": "market-research",
+      "sub_function": "Market Research",
+      "titles": [
+        "CMO",
+        "VP Marketing",
+        "VP Growth",
+        "Brand Director",
+        "Growth Director",
+        "Product Marketing Director",
+        "Demand Generation Director",
+        "Marketing Manager"
+      ]
+    }
+  ]
+}
