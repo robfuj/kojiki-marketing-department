@@ -1,0 +1,11 @@
+{
+  "synapsis": {
+    "transformations": [
+      {
+        "name": "EVIDENCE",
+        "state_kind": "evidence",
+        "output": "(stub) What does the source actually establish?"
+      }
+    ]
+  }
+}
